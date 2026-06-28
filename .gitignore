@@ -1,0 +1,6 @@
+.env
+data/seen_jobs.json
+data/results/
+__pycache__/
+*.pyc
+.venv/
